@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Danylo 👋 </h1>
+<h1 align="left">Hey there 👋, I'm Danylo </h1>
 <h3 align=left">I'm a passionate student in the Eindhoven University of Technology.</h3>
 
 
