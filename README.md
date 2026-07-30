@@ -40,8 +40,8 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/DanyloBenitskyi/Country-Relocation-Recommender">
-      Country Relocation Recommender
+    <a href="https://github.com/DanyloBenitskyi/FastAPI-Documentation-Assistant-Retrieval-Augmented-Generation">
+      FastAPI Documentation Assistant (Retrieval-Augmented Generation)
     </a>
   </li>
 </ul>
