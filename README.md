@@ -1,5 +1,5 @@
 <h1 align="left">Hey there 👋, I'm Danylo</h1>
-<h3 align="left">I'm a passionate student at Eindhoven University of Technology.</h3>
+<h3 align="left">I'm a passionate student at the Eindhoven University of Technology.</h3>
 
 <p align="left">
 </p>
