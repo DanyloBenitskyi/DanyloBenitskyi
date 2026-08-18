@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="left">🚀 Some of my Recent Projects</h3>
+<h3 align="left">🚀 Some of my Recent Projects:</h3>
 
 <ul>
   <li>
